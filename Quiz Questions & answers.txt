@@ -1,0 +1,1674 @@
+
+Sports Quiz:
+
+Easy Level
+
+    Which sport is known as "the beautiful game"?
+        a) Basketball
+        b) Soccer
+        c) Tennis
+        d) Rugby
+        e) Cricket
+        
+        Answer: b) Soccer
+
+    How many players are on a standard soccer team?
+        a) 9
+        b) 10
+        c) 11
+        d) 12
+        e) 13
+        
+        Answer: c) 11
+
+    Which country has won the most FIFA World Cups?
+        a) Argentina
+        b) Germany
+        c) Brazil
+        d) Italy
+        e) France
+        
+        Answer: c) Brazil
+
+    In which sport is the term "slam dunk" used?
+        a) Volleyball
+        b) Tennis
+        c) Soccer
+        d) Basketball
+        e) Baseball
+        
+        Answer: d) Basketball
+
+    Who is known as "The King of Football"?
+        a) Diego Maradona
+        b) Lionel Messi
+        c) Pelé
+        d) Cristiano Ronaldo
+        e) Johan Cruyff
+        
+        Answer: c) Pelé
+
+    Which country hosts the Tour de France?
+        a) Italy
+        b) Spain
+        c) Germany
+        d) France
+        e) Switzerland
+        
+        Answer: d) France
+
+    What surface is the Wimbledon tennis tournament played on?
+        a) Clay
+        b) Grass
+        c) Hardcourt
+        d) Carpet
+        e) Synthetic
+        
+        Answer: b) Grass
+
+    In which sport do teams compete for the Stanley Cup?
+        a) Baseball
+        b) Soccer
+        c) Ice Hockey
+        d) Basketball
+        e) American Football
+        
+        Answer: c) Ice Hockey
+
+    Which country won the first-ever FIFA World Cup in 1930?
+        a) Argentina
+        b) Brazil
+        c) Uruguay
+        d) Germany
+        e) Italy
+        
+        Answer: c) Uruguay
+
+    How many points is a touchdown worth in American Football?
+        a) 3
+        b) 5
+        c) 6
+        d) 7
+        e) 8
+        
+        Answer: c) 6
+
+Medium Level
+
+    Which cricketer has scored the most runs in Test cricket?
+        a) Brian Lara
+        b) Sachin Tendulkar
+        c) Ricky Ponting
+        d) Jacques Kallis
+        e) Steve Waugh
+        
+        Answer: b) Sachin Tendulkar
+
+    In which year were the first modern Olympic Games held?
+        a) 1892
+        b) 1894
+        c) 1896
+        d) 1898
+        e) 1900
+        
+        Answer: c) 1896
+
+    Which golf tournament is known as "The Masters"?
+        a) US Open
+        b) The Open Championship
+        c) PGA Championship
+        d) The Masters
+        e) Ryder Cup
+        
+        Answer: d) The Masters
+
+    Who won the NBA MVP award in 2020?
+        a) LeBron James
+        b) Giannis Antetokounmpo
+        c) James Harden
+        d) Kevin Durant
+        e) Stephen Curry
+        
+        Answer: b) Giannis Antetokounmpo
+
+    Which country has won the most Rugby World Cups?
+        a) South Africa
+        b) New Zealand
+        c) England
+        d) Australia
+        e) France
+        
+        Answer: b) New Zealand
+
+    Which athlete has won the most Olympic medals?
+        a) Michael Phelps
+        b) Usain Bolt
+        c) Carl Lewis
+        d) Mark Spitz
+        e) Larisa Latynina
+        
+        Answer: a) Michael Phelps
+
+    What is the maximum break in snooker?
+        a) 140
+        b) 147
+        c) 155
+        d) 160
+        e) 170
+        
+        Answer: b) 147
+
+    Which country won the 2019 Cricket World Cup?
+        a) Australia
+        b) India
+        c) New Zealand
+        d) England
+        e) South Africa
+        
+        Answer: d) England
+
+    In which sport is the Davis Cup awarded?
+        a) Golf
+        b) Cricket
+        c) Rugby
+        d) Tennis
+        e) Hockey
+        
+        Answer: d) Tennis
+
+    Who is the all-time leading scorer in the NBA?
+        a) Michael Jordan
+        b) Kobe Bryant
+        c) Karl Malone
+        d) Kareem Abdul-Jabbar
+        e) LeBron James
+        
+        Answer: e) LeBron James
+
+Hard Level
+
+    Which cyclist won the Tour de France seven consecutive times before being stripped of his titles?
+        a) Eddy Merckx
+        b) Miguel Indurain
+        c) Lance Armstrong
+        d) Chris Froome
+        e) Greg LeMond
+        
+        Answer: c) Lance Armstrong
+
+    Which country has hosted the most Summer Olympic Games?
+        a) United States
+        b) United Kingdom
+        c) France
+        d) Australia
+        e) Japan
+        
+        Answer: a) United States
+
+    In which year did Roger Federer win his first Wimbledon title?
+        a) 2001
+        b) 2002
+        c) 2003
+        d) 2004
+        e) 2005
+        
+        Answer: c) 2003
+
+    Who holds the record for the fastest century in ODI cricket?
+        a) Shahid Afridi
+        b) AB de Villiers
+        c) Corey Anderson
+        d) Chris Gayle
+        e) Viv Richards
+        
+        Answer: b) AB de Villiers
+
+    Which boxer was known as "The Brown Bomber"?
+        a) Muhammad Ali
+        b) Joe Frazier
+        c) Sugar Ray Robinson
+        d) Joe Louis
+        e) Jack Johnson
+        
+        Answer: d) Joe Louis
+
+    Which country won the first-ever ICC T20 World Cup?
+        a) India
+        b) Pakistan
+        c) Australia
+        d) South Africa
+        e) West Indies
+        
+        Answer: a) India
+
+    Which country has won the most Davis Cup titles?
+        a) Australia
+        b) France
+        c) Spain
+        d) United States
+        e) Sweden
+        
+        Answer: d) United States
+
+    Who holds the record for the most goals scored in a single Premier League season?
+        a) Thierry Henry
+        b) Alan Shearer
+        c) Mohamed Salah
+        d) Harry Kane
+        e) Cristiano Ronaldo
+        
+        Answer: c) Mohamed Salah
+
+    Which tennis player won the most consecutive US Open titles?
+        a) Pete Sampras
+        b) Roger Federer
+        c) Jimmy Connors
+        d) Rafael Nadal
+        e) John McEnroe
+        
+        Answer: c) Jimmy Connors
+
+    Which country won the first FIFA Women's World Cup?
+        a) United States
+        b) Germany
+        c) Norway
+        d) China
+        e) Sweden
+        
+        Answer: a) United States
+
+
+Movie Quiz:
+
+Easy Level
+
+    Which movie features the song "Let It Go"?
+        a) Tangled
+        b) Moana
+        c) Frozen
+        d) The Little Mermaid
+        e) Beauty and the Beast
+        
+        Answer: c) Frozen
+
+    Who played the character of Jack Dawson in "Titanic"?
+        a) Brad Pitt
+        b) Leonardo DiCaprio
+        c) Tom Cruise
+        d) Matt Damon
+        e) Johnny Depp
+        
+        Answer: b) Leonardo DiCaprio
+
+    Which movie franchise features a character named Darth Vader?
+        a) Harry Potter
+        b) Star Wars
+        c) The Lord of the Rings
+        d) The Matrix
+        e) Indiana Jones
+        
+        Answer: b) Star Wars
+
+    In which movie does the character Woody appear?
+        a) Shrek
+        b) Toy Story
+        c) Cars
+        d) Finding Nemo
+        e) Monsters, Inc.
+        
+        Answer: b) Toy Story
+
+    Which movie won the Oscar for Best Picture in 2020?
+        a) Joker
+        b) Once Upon a Time in Hollywood
+        c) Parasite
+        d) 1917
+        e) Ford v Ferrari
+        
+        Answer: c) Parasite
+
+    Who directed "Jurassic Park"?
+        a) James Cameron
+        b) Steven Spielberg
+        c) George Lucas
+        d) Ridley Scott
+        e) Peter Jackson
+        
+        Answer: b) Steven Spielberg
+
+    Which animated movie features the character Simba?
+        a) The Lion King
+        b) Aladdin
+        c) Pocahontas
+        d) Mulan
+        e) Tarzan
+        
+        Answer: a) The Lion King
+
+    Who played the role of Iron Man in the Marvel Cinematic Universe?
+        a) Chris Hemsworth
+        b) Chris Evans
+        c) Robert Downey Jr.
+        d) Mark Ruffalo
+        e) Jeremy Renner
+        
+        Answer: c) Robert Downey Jr.
+
+    Which movie features the famous quote, "I'll be back"?
+        a) The Terminator
+        b) Die Hard
+        c) Rambo
+        d) Predator
+        e) Robocop
+        
+        Answer: a) The Terminator
+
+    Which actress starred as Hermione Granger in the "Harry Potter" series?
+        a) Emma Stone
+        b) Emma Watson
+        c) Keira Knightley
+        d) Natalie Portman
+        e) Dakota Fanning
+        
+        Answer: b) Emma Watson
+
+Medium Level
+
+    Which director is known for the movies "Pulp Fiction" and "Kill Bill"?
+        a) Martin Scorsese
+        b) Quentin Tarantino
+        c) Christopher Nolan
+        d) Stanley Kubrick
+        e) David Fincher
+        
+        Answer: b) Quentin Tarantino
+
+    In "The Matrix", what color is the pill that Neo takes?
+        a) Blue
+        b) Green
+        c) Red
+        d) Yellow
+        e) Purple
+        
+        Answer: c) Red
+
+    Which movie is about a young girl’s adventure in a world called Wonderland?
+        a) Peter Pan
+        b) The Chronicles of Narnia
+        c) Alice in Wonderland
+        d) The Wizard of Oz
+        e) Spirited Away
+        
+        Answer: c) Alice in Wonderland
+
+    Who won the Oscar for Best Actress for her role in "La La Land"?
+        a) Jennifer Lawrence
+        b) Natalie Portman
+        c) Emma Stone
+        d) Brie Larson
+        e) Meryl Streep
+        
+        Answer: c) Emma Stone
+
+    Which movie features a young lion who becomes king after his father’s death?
+        a) The Jungle Book
+        b) Madagascar
+        c) The Lion King
+        d) Bambi
+        e) Zootopia
+        
+        Answer: c) The Lion King
+
+    Which movie is based on the life of Facebook's founder?
+        a) Steve Jobs
+        b) The Social Network
+        c) The Internship
+        d) The Founder
+        e) Jobs
+        
+        Answer: b) The Social Network
+
+    Which actor played the character of Joker in "The Dark Knight"?
+        a) Joaquin Phoenix
+        b) Jared Leto
+        c) Jack Nicholson
+        d) Heath Ledger
+        e) Christian Bale
+        
+        Answer: d) Heath Ledger
+
+    In which movie does a group of superheroes fight against Thanos?
+        a) The Avengers
+        b) Justice League
+        c) X-Men
+        d) Guardians of the Galaxy
+        e) Fantastic Four
+        
+        Answer: a) The Avengers
+
+    Which movie features the song "My Heart Will Go On"?
+        a) The Bodyguard
+        b) Titanic
+        c) Moulin Rouge!
+        d) Beauty and the Beast
+        e) Ghost
+        
+        Answer: b) Titanic
+
+    Who played the role of Forrest Gump?
+        a) Tom Hanks
+        b) Robin Williams
+        c) Morgan Freeman
+        d) Harrison Ford
+        e) Kevin Costner
+        
+        Answer: a) Tom Hanks
+
+Hard Level
+
+    Which movie won the first-ever Academy Award for Best Picture?
+        a) Sunrise
+        b) Wings
+        c) The Jazz Singer
+        d) The Broadway Melody
+        e) All Quiet on the Western Front
+        
+        Answer: b) Wings
+
+    Who directed the movie "Citizen Kane"?
+        a) Alfred Hitchcock
+        b) Stanley Kubrick
+        c) Orson Welles
+        d) Frank Capra
+        e) John Ford
+        
+        Answer: c) Orson Welles
+
+    Which movie is known for the famous line "Here’s looking at you, kid"?
+        a) Gone with the Wind
+        b) Casablanca
+        c) Citizen Kane
+        d) It’s a Wonderful Life
+        e) The Maltese Falcon
+        
+        Answer: b) Casablanca
+
+    Which movie features the character "Norman Bates"?
+        a) The Shining
+        b) Psycho
+        c) Rear Window
+        d) Vertigo
+        e) The Exorcist
+        
+        Answer: b) Psycho
+
+    Who won an Oscar for playing the character of Hannibal Lecter?
+        a) Robert De Niro
+        b) Jack Nicholson
+        c) Anthony Hopkins
+        d) Al Pacino
+        e) Daniel Day-Lewis
+        
+        Answer: c) Anthony Hopkins
+
+    Which movie is considered the first full-length animated feature?
+        a) Cinderella
+        b) Snow White and the Seven Dwarfs
+        c) Pinocchio
+        d) Fantasia
+        e) Dumbo
+        
+        Answer: b) Snow White and the Seven Dwarfs
+
+    Who directed "Schindler’s List"?
+        a) Martin Scorsese
+        b) Steven Spielberg
+        c) Francis Ford Coppola
+        d) Ridley Scott
+        e) Oliver Stone
+        
+        Answer: b) Steven Spielberg
+
+    Which film did Alfred Hitchcock never win an Oscar for, despite being nominated five times for Best Director?
+        a) Rear Window
+        b) Psycho
+        c) North by Northwest
+        d) Vertigo
+        e) Rebecca
+        
+        Answer: e) Rebecca
+
+    Which movie had the tagline "In space, no one can hear you scream"?
+        a) Alien
+        b) The Thing
+        c) 2001: A Space Odyssey
+        d) Blade Runner
+        e) Star Wars
+        
+        Answer: a) Alien
+
+    Which movie is based on a novel by Stephen King and features the character Andy Dufresne?
+        a) Misery
+        b) The Shining
+        c) The Shawshank Redemption
+        d) Carrie
+        e) It
+        
+        Answer: c) The Shawshank Redemption
+
+
+History Quiz:
+
+Easy Level
+
+    Who was the first President of the United States?
+        a) John Adams
+        b) Thomas Jefferson
+        c) George Washington
+        d) Abraham Lincoln
+        e) James Madison
+        
+        Answer: c) George Washington
+
+    What was the name of the ship that brought the Pilgrims to America in 1620?
+        a) Mayflower
+        b) Santa Maria
+        c) Pinta
+        d) Nina
+        e) Beagle
+        
+        Answer: a) Mayflower
+
+    Which ancient civilization built the pyramids?
+        a) Romans
+        b) Greeks
+        c) Egyptians
+        d) Persians
+        e) Babylonians
+        
+        Answer: c) Egyptians
+
+    Who was the British Prime Minister during most of World War II?
+        a) Neville Chamberlain
+        b) Winston Churchill
+        c) Clement Attlee
+        d) Harold Macmillan
+        e) David Lloyd George
+        
+        Answer: b) Winston Churchill
+
+    Which war was fought between the North and South regions in the United States?
+        a) Revolutionary War
+        b) War of 1812
+        c) Civil War
+        d) World War I
+        e) Spanish-American War
+        
+        Answer: c) Civil War
+
+    Which country gifted the Statue of Liberty to the United States?
+        a) Spain
+        b) Italy
+        c) Germany
+        d) France
+        e) Netherlands
+        
+        Answer: d) France
+
+    Who discovered America in 1492?
+        a) Marco Polo
+        b) Ferdinand Magellan
+        c) Christopher Columbus
+        d) Amerigo Vespucci
+        e) Hernán Cortés
+        
+        Answer: c) Christopher Columbus
+
+    Which empire was ruled by Julius Caesar?
+        a) Greek Empire
+        b) Egyptian Empire
+        c) Roman Empire
+        d) Ottoman Empire
+        e) Persian Empire
+        
+        Answer: c) Roman Empire
+
+    Which U.S. President abolished slavery?
+        a) George Washington
+        b) Thomas Jefferson
+        c) Abraham Lincoln
+        d) Andrew Jackson
+        e) James Monroe
+        
+        Answer: c) Abraham Lincoln
+
+    What was the primary language spoken in the Roman Empire?
+        a) Greek
+        b) Latin
+        c) Hebrew
+        d) Aramaic
+        e) Egyptian
+        
+        Answer: b) Latin
+
+Medium Level
+
+    Who was the first female Prime Minister of the United Kingdom?
+        a) Theresa May
+        b) Margaret Thatcher
+        c) Indira Gandhi
+        d) Angela Merkel
+        e) Golda Meir
+        
+        Answer: b) Margaret Thatcher
+
+    Which war was known as "The Great War"?
+        a) World War I
+        b) World War II
+        c) The Napoleonic Wars
+        d) The Crimean War
+        e) The Franco-Prussian War
+        
+        Answer: a) World War I
+
+    Which civilization is known for creating the first alphabet?
+        a) Egyptians
+        b) Phoenicians
+        c) Sumerians
+        d) Babylonians
+        e) Greeks
+        
+        Answer: b) Phoenicians
+
+    Who was the first Emperor of China?
+        a) Sun Tzu
+        b) Confucius
+        c) Liu Bang
+        d) Qin Shi Huang
+        e) Genghis Khan
+        
+        Answer: d) Qin Shi Huang
+
+    In which year did the Berlin Wall fall?
+        a) 1985
+        b) 1987
+        c) 1989
+        d) 1991
+        e) 1993
+        
+        Answer: c) 1989
+
+    Which treaty ended World War I?
+        a) Treaty of Versailles
+        b) Treaty of Paris
+        c) Treaty of Tordesillas
+        d) Treaty of Ghent
+        e) Treaty of Westphalia
+        
+        Answer: a) Treaty of Versailles
+
+    Which revolution is associated with the storming of the Bastille?
+        a) Russian Revolution
+        b) American Revolution
+        c) French Revolution
+        d) Industrial Revolution
+        e) Glorious Revolution
+        
+        Answer: c) French Revolution
+
+    Who was the longest-reigning British monarch before Queen Elizabeth II?
+        a) Queen Victoria
+        b) King George III
+        c) King Henry VIII
+        d) Queen Elizabeth I
+        e) King Edward VII
+        
+        Answer: a) Queen Victoria
+
+    What was the main cause of the American Revolutionary War?
+        a) Slavery
+        b) Religious freedom
+        c) Taxation without representation
+        d) Expansion of territories
+        e) Trade routes
+        
+        Answer: c) Taxation without representation
+
+    Which ancient city was known for its Hanging Gardens?
+        a) Babylon
+        b) Athens
+        c) Rome
+        d) Alexandria
+        e) Persepolis
+        
+        Answer: a) Babylon
+
+Hard Level
+
+    Who was the last Emperor of the Western Roman Empire?
+        a) Romulus Augustulus
+        b) Julius Nepos
+        c) Constantine XI
+        d) Diocletian
+        e) Theodosius I
+        
+        Answer: a) Romulus Augustulus
+
+    Which treaty divided the New World between Spain and Portugal?
+        a) Treaty of Versailles
+        b) Treaty of Tordesillas
+        c) Treaty of Paris
+        d) Treaty of Utrecht
+        e) Treaty of Vienna
+        
+        Answer: b) Treaty of Tordesillas
+
+    Who was the leader of the Haitian Revolution?
+        a) Simon Bolivar
+        b) Toussaint Louverture
+        c) Jean-Jacques Dessalines
+        d) José de San Martín
+        e) Francisco de Miranda
+        
+        Answer: b) Toussaint Louverture
+
+    Which battle marked the end of Napoleon’s rule?
+        a) Battle of Trafalgar
+        b) Battle of Austerlitz
+        c) Battle of Leipzig
+        d) Battle of Waterloo
+        e) Battle of Borodino
+        
+        Answer: d) Battle of Waterloo
+
+    Which ancient historian is known as the "Father of History"?
+        a) Thucydides
+        b) Herodotus
+        c) Livy
+        d) Tacitus
+        e) Plutarch
+        
+        Answer: b) Herodotus
+
+    Who was the first ruler of the Mongol Empire?
+        a) Kublai Khan
+        b) Genghis Khan
+        c) Ogedei Khan
+        d) Timur
+        e) Batu Khan
+        
+        Answer: b) Genghis Khan
+
+    Which empire was known for its advanced road system and postal service?
+        a) Roman Empire
+        b) Inca Empire
+        c) Byzantine Empire
+        d) Ottoman Empire
+        e) Persian Empire
+        
+        Answer: b) Inca Empire
+
+    Which event triggered the start of World War I?
+        a) Assassination of Archduke Franz Ferdinand
+        b) Sinking of the Lusitania
+        c) Zimmermann Telegram
+        d) Treaty of Brest-Litovsk
+        e) Invasion of Belgium
+        
+        Answer: a) Assassination of Archduke Franz Ferdinand
+
+    Who was the first female Pharaoh of Egypt?
+        a) Nefertiti
+        b) Cleopatra
+        c) Hatshepsut
+        d) Sobekneferu
+        e) Ahmose-Nefertari
+        
+        Answer: c) Hatshepsut
+
+    Which ancient civilization built Machu Picchu?
+        a) Aztecs
+        b) Mayans
+        c) Incas
+        d) Toltecs
+        e) Olmecs
+        
+        Answer: c) Incas
+
+
+General Knowledge Quiz:
+
+Easy Level
+
+    What is the capital of France?
+        a) Rome
+        b) Paris
+        c) Madrid
+        d) Berlin
+        e) Lisbon
+        
+        Answer: b) Paris
+
+    Which planet is known as the Red Planet?
+        a) Earth
+        b) Venus
+        c) Mars
+        d) Jupiter
+        e) Saturn
+        
+        Answer: c) Mars
+
+    Who wrote the play "Romeo and Juliet"?
+        a) Charles Dickens
+        b) William Shakespeare
+        c) Mark Twain
+        d) Jane Austen
+        e) Leo Tolstoy
+        
+        Answer: b) William Shakespeare
+
+    What is the largest mammal in the world?
+        a) Elephant
+        b) Blue Whale
+        c) Giraffe
+        d) Hippopotamus
+        e) Great White Shark
+        
+        Answer: b) Blue Whale
+
+    How many continents are there on Earth?
+        a) Five
+        b) Six
+        c) Seven
+        d) Eight
+        e) Four
+        
+        Answer: c) Seven
+
+    Which chemical element has the symbol 'O'?
+        a) Gold
+        b) Silver
+        c) Oxygen
+        d) Hydrogen
+        e) Carbon
+        
+        Answer: c) Oxygen
+
+    Who was the first man to walk on the moon?
+        a) Yuri Gagarin
+        b) Buzz Aldrin
+        c) Michael Collins
+        d) John Glenn
+        e) Neil Armstrong
+        
+        Answer: e) Neil Armstrong
+
+    Which language is primarily spoken in Brazil?
+        a) Spanish
+        b) Portuguese
+        c) French
+        d) English
+        e) Italian
+        
+        Answer: b) Portuguese
+
+    What is the boiling point of water?
+        a) 50°C
+        b) 100°C
+        c) 150°C
+        d) 200°C
+        e) 0°C
+        
+        Answer: b) 100°C
+
+    What is the largest organ in the human body?
+        a) Heart
+        b) Liver
+        c) Lungs
+        d) Skin
+        e) Brain
+        
+        Answer: d) Skin
+
+Medium Level
+
+    What is the longest river in the world?
+        a) Amazon River
+        b) Nile River
+        c) Yangtze River
+        d) Mississippi River
+        e) Congo River
+        
+        Answer: b) Nile River
+
+    Which element has the atomic number 1?
+        a) Helium
+        b) Carbon
+        c) Oxygen
+        d) Hydrogen
+        e) Nitrogen
+        
+        Answer: d) Hydrogen
+
+    Which country is known as the Land of the Rising Sun?
+        a) China
+        b) Japan
+        c) South Korea
+        d) Thailand
+        e) Vietnam
+        
+        Answer: b) Japan
+
+    Which artist painted the "Mona Lisa"?
+        a) Vincent van Gogh
+        b) Pablo Picasso
+        c) Michelangelo
+        d) Leonardo da Vinci
+        e) Rembrandt
+        
+        Answer: d) Leonardo da Vinci
+
+    What is the hardest natural substance on Earth?
+        a) Gold
+        b) Iron
+        c) Diamond
+        d) Platinum
+        e) Ruby
+        
+        Answer: c) Diamond
+
+    Which country hosted the 2016 Summer Olympics?
+        a) China
+        b) United Kingdom
+        c) Brazil
+        d) Japan
+        e) Russia
+        
+        Answer: c) Brazil
+
+    Who developed the theory of relativity?
+        a) Isaac Newton
+        b) Albert Einstein
+        c) Galileo Galilei
+        d) Stephen Hawking
+        e) Nikola Tesla
+        
+        Answer: b) Albert Einstein
+
+    Which novel begins with the line, "It was the best of times, it was the worst of times"?
+        a) War and Peace
+        b) Pride and Prejudice
+        c) The Great Gatsby
+        d) A Tale of Two Cities
+        e) Moby Dick
+        
+        Answer: d) A Tale of Two Cities
+
+    What is the capital city of Australia?
+        a) Sydney
+        b) Melbourne
+        c) Brisbane
+        d) Perth
+        e) Canberra
+        
+        Answer: e) Canberra
+
+    What is the smallest planet in our solar system?
+        a) Earth
+        b) Venus
+        c) Mars
+        d) Mercury
+        e) Pluto
+        
+        Answer: d) Mercury
+
+Hard Level
+
+    Which scientist is known for the laws of planetary motion?
+        a) Isaac Newton
+        b) Galileo Galilei
+        c) Johannes Kepler
+        d) Albert Einstein
+        e) Niels Bohr
+        
+        Answer: c) Johannes Kepler
+
+    Who was the first person to reach the South Pole?
+        a) Robert Falcon Scott
+        b) Ernest Shackleton
+        c) Roald Amundsen
+        d) Edmund Hillary
+        e) Richard Byrd
+        
+        Answer: c) Roald Amundsen
+
+    Which composer wrote the "Moonlight Sonata"?
+        a) Ludwig van Beethoven
+        b) Wolfgang Amadeus Mozart
+        c) Johann Sebastian Bach
+        d) Franz Schubert
+        e) Frédéric Chopin
+        
+        Answer: a) Ludwig van Beethoven
+
+    Which philosopher is known for his method of questioning to achieve deeper understanding, known as the Socratic method?
+        a) Aristotle
+        b) Socrates
+        c) Plato
+        d) Descartes
+        e) Confucius
+        
+        Answer: b) Socrates
+
+    In which year did the Titanic sink?
+        a) 1905
+        b) 1908
+        c) 1912
+        d) 1915
+        e) 1918
+        
+        Answer: c) 1912
+
+    Which element is represented by the symbol 'W'?
+        a) Tungsten
+        b) Tin
+        c) Silver
+        d) Uranium
+        e) Zinc
+        
+        Answer: a) Tungsten
+
+    What is the capital of Canada?
+        a) Toronto
+        b) Vancouver
+        c) Montreal
+        d) Ottawa
+        e) Calgary
+        
+        Answer: d) Ottawa
+
+    Which war was fought between the houses of Lancaster and York?
+        a) The Hundred Years' War
+        b) The War of the Roses
+        c) The English Civil War
+        d) The Anglo-Saxon War
+        e) The Glorious Revolution
+        
+        Answer: b) The War of the Roses
+
+    What is the longest mountain range in the world?
+        a) Himalayas
+        b) Rockies
+        c) Andes
+        d) Alps
+        e) Appalachian
+        
+        Answer: c) Andes
+
+    Which ancient civilization built the city of Machu Picchu?
+        a) Mayans
+        b) Aztecs
+        c) Incas
+        d) Toltecs
+        e) Olmecs
+        
+        Answer: c) Incas
+
+
+Video Game Quiz:
+
+Easy Level
+
+    Which video game features the characters Mario and Luigi?
+        a) Sonic the Hedgehog
+        b) Street Fighter
+        c) Super Mario Bros.
+        d) The Legend of Zelda
+        e) Mega Man
+        
+        Answer: c) Super Mario Bros.
+
+    In which game do players build and explore worlds made of blocks?
+        a) Fortnite
+        b) Minecraft
+        c) Terraria
+        d) Roblox
+        e) Sims
+        
+        Answer: b) Minecraft
+
+    Which character is the protagonist of the "Legend of Zelda" series?
+        a) Zelda
+        b) Ganondorf
+        c) Link
+        d) Samus
+        e) Cloud
+        
+        Answer: c) Link
+
+    What is the name of the princess that Mario often rescues?
+        a) Princess Zelda
+        b) Princess Peach
+        c) Princess Daisy
+        d) Princess Rosalina
+        e) Princess Toadstool
+        
+        Answer: b) Princess Peach
+
+    Which game popularized the battle royale genre?
+        a) Call of Duty
+        b) Apex Legends
+        c) PUBG
+        d) Fortnite
+        e) Overwatch
+        
+        Answer: c) PUBG
+
+    What type of animal is Sonic in the "Sonic the Hedgehog" series?
+        a) Fox
+        b) Hedgehog
+        c) Squirrel
+        d) Rabbit
+        e) Badger
+        
+        Answer: b) Hedgehog
+
+    Which game series features the Spartan supersoldier Master Chief?
+        a) Gears of War
+        b) Halo
+        c) Destiny
+        d) Call of Duty
+        e) Battlefield
+        
+        Answer: b) Halo
+
+    Which company developed the PlayStation console?
+        a) Microsoft
+        b) Nintendo
+        c) Sony
+        d) Sega
+        e) Atari
+        
+        Answer: c) Sony
+
+    In "Pokémon," what type is Pikachu?
+        a) Fire
+        b) Water
+        c) Electric
+        d) Grass
+        e) Psychic
+        
+        Answer: c) Electric
+
+    Which game is known for the phrase "Finish Him!"?
+        a) Street Fighter
+        b) Mortal Kombat
+        c) Tekken
+        d) Soulcalibur
+        e) Killer Instinct
+        
+        Answer: b) Mortal Kombat
+
+Medium Level
+
+    Which video game features a crowbar-wielding scientist named Gordon Freeman?
+        a) Bioshock
+        b) Half-Life
+        c) Portal
+        d) Doom
+        e) Quake
+        
+        Answer: b) Half-Life
+
+    In "The Legend of Zelda: Ocarina of Time," what is the name of Link’s fairy companion?
+        a) Tingle
+        b) Navi
+        c) Fi
+        d) Midna
+        e) Tatl
+        
+        Answer: b) Navi
+
+    Which game introduced the first-person shooter genre?
+        a) Doom
+        b) Wolfenstein 3D
+        c) Quake
+        d) GoldenEye 007
+        e) Counter-Strike
+        
+        Answer: b) Wolfenstein 3D
+
+    In which game do players explore the city of Rapture?
+        a) Deus Ex
+        b) Mass Effect
+        c) Bioshock
+        d) Fallout
+        e) Metro
+        
+        Answer: c) Bioshock
+
+    What is the main objective in "The Sims" series?
+        a) Destroy enemies
+        b) Build and manage a city
+        c) Control the lives of simulated people
+        d) Race cars
+        e) Solve puzzles
+        
+        Answer: c) Control the lives of simulated people
+
+    Which game features the character Solid Snake?
+        a) Splinter Cell
+        b) Hitman
+        c) Metal Gear Solid
+        d) Resident Evil
+        e) Tom Clancy’s Ghost Recon
+        
+        Answer: c) Metal Gear Solid
+
+    Which game is set in the fictional land of Hyrule?
+        a) Dark Souls
+        b) Skyrim
+        c) The Witcher 3
+        d) The Legend of Zelda
+        e) Dragon Age
+        
+        Answer: d) The Legend of Zelda
+
+    What is the name of the virus in the "Resident Evil" series?
+        a) T-Virus
+        b) Z-Virus
+        c) R-Virus
+        d) X-Virus
+        e) G-Virus
+        
+        Answer: a) T-Virus
+
+    In "Final Fantasy VII," who wields the Buster Sword?
+        a) Cloud Strife
+        b) Squall Leonhart
+        c) Tidus
+        d) Zack Fair
+        e) Sephiroth
+        
+        Answer: a) Cloud Strife
+
+    Which game features a post-apocalyptic world with the tagline "War. War never changes"?
+        a) The Last of Us
+        b) Fallout
+        c) Metro
+        d) Gears of War
+        e) Mad Max
+        
+        Answer: b) Fallout
+
+Hard Level
+
+    Which 1999 game is often credited with popularizing the massively multiplayer online role-playing game (MMORPG) genre?
+        a) World of Warcraft
+        b) EverQuest
+        c) RuneScape
+        d) Ultima Online
+        e) Final Fantasy XI
+        
+        Answer: b) EverQuest
+
+    In "Dark Souls," what is the name of the kingdom where the game takes place?
+        a) Boletaria
+        b) Lordran
+        c) Lothric
+        d) Drangleic
+        e) Anor Londo
+        
+        Answer: b) Lordran
+
+    Which game developer is responsible for the "Elder Scrolls" series?
+        a) Bioware
+        b) Obsidian Entertainment
+        c) Bethesda Game Studios
+        d) CD Projekt Red
+        e) Ubisoft
+        
+        Answer: c) Bethesda Game Studios
+
+    In the game "Shadow of the Colossus," how many colossi must be defeated?
+        a) 12
+        b) 14
+        c) 16
+        d) 18
+        e) 20
+        
+        Answer: c) 16
+
+    What is the name of the protagonist in the "Metroid" series?
+        a) Master Chief
+        b) Samus Aran
+        c) Lara Croft
+        d) Jill Valentine
+        e) Zero Suit
+        
+        Answer: b) Samus Aran
+
+    Which game features the characters Geralt, Ciri, and Yennefer?
+        a) Skyrim
+        b) The Witcher 3: Wild Hunt
+        c) Dragon Age: Inquisition
+        d) Divinity: Original Sin II
+        e) Baldur's Gate
+        
+        Answer: b) The Witcher 3: Wild Hunt
+
+    In "Portal," what is the name of the AI that guides and tests the player?
+        a) HAL 9000
+        b) SHODAN
+        c) GLaDOS
+        d) EDI
+        e) Cortana
+        
+        Answer: c) GLaDOS
+
+    Which game is known for the line "Would you kindly?"
+        a) Bioshock
+        b) Half-Life 2
+        c) Mass Effect
+        d) Far Cry 3
+        e) Spec Ops: The Line
+        
+        Answer: a) Bioshock
+
+    What is the name of the planet in "Mass Effect" where Commander Shepard first becomes a Spectre?
+        a) Eden Prime
+        b) Thessia
+        c) Tuchanka
+        d) Rannoch
+        e) Ilos
+        
+        Answer: a) Eden Prime
+
+    Which game was developed by Team Ico and features a young boy and a giant creature named Trico?
+        a) Ico
+        b) The Last Guardian
+        c) Shadow of the Colossus
+        d) Journey
+        e) The Legend of Zelda: Breath of the Wild
+        
+        Answer: b) The Last Guardian
+
+
+Music Quiz:
+
+Easy Level
+
+    Which artist is known as the "King of Pop"?
+        a) Elvis Presley
+        b) Michael Jackson
+        c) Prince
+        d) Justin Bieber
+        e) Bruno Mars
+        
+        Answer: b) Michael Jackson
+
+    Which band released the song "Hey Jude"?
+        a) The Rolling Stones
+        b) The Beatles
+        c) Queen
+        d) The Beach Boys
+        e) Led Zeppelin
+        
+        Answer: b) The Beatles
+
+    Which female artist sang "Like a Virgin"?
+        a) Whitney Houston
+        b) Celine Dion
+        c) Madonna
+        d) Mariah Carey
+        e) Janet Jackson
+        
+        Answer: c) Madonna
+
+    Who is the lead singer of the band U2?
+        a) Sting
+        b) Bono
+        c) Freddie Mercury
+        d) Axl Rose
+        e) David Bowie
+        
+        Answer: b) Bono
+
+    Which song by Queen begins with "Is this the real life? Is this just fantasy?"
+        a) We Will Rock You
+        b) Another One Bites the Dust
+        c) Bohemian Rhapsody
+        d) Don't Stop Me Now
+        e) Somebody to Love
+        
+        Answer: c) Bohemian Rhapsody
+
+    Which artist is known for the hit single "Shape of You"?
+        a) Shawn Mendes
+        b) Ed Sheeran
+        c) Sam Smith
+        d) Justin Timberlake
+        e) Drake
+        
+        Answer: b) Ed Sheeran
+
+    What instrument did Louis Armstrong primarily play?
+        a) Piano
+        b) Trumpet
+        c) Saxophone
+        d) Drums
+        e) Guitar
+        
+        Answer: b) Trumpet
+
+    Which famous composer was deaf?
+        a) Wolfgang Amadeus Mozart
+        b) Johann Sebastian Bach
+        c) Ludwig van Beethoven
+        d) Antonio Vivaldi
+        e) Franz Schubert
+        
+        Answer: c) Ludwig van Beethoven
+
+    What genre is Taylor Swift primarily known for?
+        a) Country
+        b) Hip-Hop
+        c) Rock
+        d) Jazz
+        e) Classical
+        
+        Answer: a) Country
+
+    Who sang "Rolling in the Deep"?
+        a) Beyoncé
+        b) Rihanna
+        c) Adele
+        d) Lady Gaga
+        e) Katy Perry
+        
+        Answer: c) Adele
+
+Medium Level
+
+    Which band is known for the album "Dark Side of the Moon"?
+        a) The Doors
+        b) Led Zeppelin
+        c) Pink Floyd
+        d) The Who
+        e) The Rolling Stones
+        
+        Answer: c) Pink Floyd
+
+    Which rapper's real name is Shawn Carter?
+        a) Kanye West
+        b) Nas
+        c) Jay-Z
+        d) Dr. Dre
+        e) Lil Wayne
+        
+        Answer: c) Jay-Z
+
+    Who is known as the "Godfather of Soul"?
+        a) Ray Charles
+        b) James Brown
+        c) Stevie Wonder
+        d) Marvin Gaye
+        e) Otis Redding
+        
+        Answer: b) James Brown
+
+    What is the title of the first album released by The Beatles?
+        a) Revolver
+        b) Sgt. Pepper's Lonely Hearts Club Band
+        c) Abbey Road
+        d) Please Please Me
+        e) A Hard Day's Night
+        
+        Answer: d) Please Please Me
+
+    Which song by Nirvana features the lyrics "Here we are now, entertain us"?
+        a) Lithium
+        b) Smells Like Teen Spirit
+        c) Come as You Are
+        d) In Bloom
+        e) Heart-Shaped Box
+        
+        Answer: b) Smells Like Teen Spirit
+
+    Which classical composer wrote "The Four Seasons"?
+        a) Johann Sebastian Bach
+        b) Antonio Vivaldi
+        c) Ludwig van Beethoven
+        d) Franz Joseph Haydn
+        e) Wolfgang Amadeus Mozart
+        
+        Answer: b) Antonio Vivaldi
+
+    Who was the lead singer of the band Queen?
+        a) Mick Jagger
+        b) Freddie Mercury
+        c) Robert Plant
+        d) David Bowie
+        e) Paul McCartney
+        
+        Answer: b) Freddie Mercury
+
+    Which 1997 hit song was performed by Hanson?
+        a) Wannabe
+        b) Tubthumping
+        c) MMMBop
+        d) Macarena
+        e) Barbie Girl
+        
+        Answer: c) MMMBop
+
+    Which instrument is Yo-Yo Ma famous for playing?
+        a) Violin
+        b) Piano
+        c) Cello
+        d) Trumpet
+        e) Guitar
+        
+        Answer: c) Cello
+
+    Which band released the album "Nevermind"?
+        a) Pearl Jam
+        b) Nirvana
+        c) Soundgarden
+        d) Alice in Chains
+        e) Red Hot Chili Peppers
+        
+        Answer: b) Nirvana
+
+Hard Level
+
+    Which composer wrote the opera "The Marriage of Figaro"?
+        a) Ludwig van Beethoven
+        b) Richard Wagner
+        c) Wolfgang Amadeus Mozart
+        d) Giuseppe Verdi
+        e) Georges Bizet
+        
+        Answer: c) Wolfgang Amadeus Mozart
+
+    Which jazz musician is known for the album "Kind of Blue"?
+        a) John Coltrane
+        b) Thelonious Monk
+        c) Duke Ellington
+        d) Miles Davis
+        e) Charles Mingus
+        
+        Answer: d) Miles Davis
+
+    Who was the drummer for The Beatles?
+        a) Keith Moon
+        b) Charlie Watts
+        c) John Bonham
+        d) Ringo Starr
+        e) Ginger Baker
+        
+        Answer: d) Ringo Starr
+
+    Which artist released the album "Blue" in 1971?
+        a) Carole King
+        b) Joni Mitchell
+        c) Janis Joplin
+        d) Carly Simon
+        e) Stevie Nicks
+        
+        Answer: b) Joni Mitchell
+
+    Which band is known for the song "Stairway to Heaven"?
+        a) The Rolling Stones
+        b) Led Zeppelin
+        c) Pink Floyd
+        d) Deep Purple
+        e) The Who
+        
+        Answer: b) Led Zeppelin
+
+    In which year was the first Grammy Awards ceremony held?
+        a) 1950
+        b) 1959
+        c) 1965
+        d) 1971
+        e) 1980
+        
+        Answer: b) 1959
+
+    Which composer is known for the ballet "The Nutcracker"?
+        a) Igor Stravinsky
+        b) Sergei Rachmaninoff
+        c) Pyotr Ilyich Tchaikovsky
+        d) Claude Debussy
+        e) Maurice Ravel
+        
+        Answer: c) Pyotr Ilyich Tchaikovsky
+
+    Which rock band was formed by former members of Joy Division?
+        a) The Cure
+        b) Depeche Mode
+        c) New Order
+        d) The Smiths
+        e) The Clash
+        
+        Answer: c) New Order
+
+    Which American composer is known for the piece "Rhapsody in Blue"?
+        a) Aaron Copland
+        b) Leonard Bernstein
+        c) George Gershwin
+        d) Samuel Barber
+        e) Philip Glass
+        
+        Answer: c) George Gershwin
+
+    Which band released the concept album "The Wall"?
+        a) The Who
+        b) The Doors
+        c) Pink Floyd
+        d) Genesis
+        e) Yes
+        
+        Answer: c) Pink Floyd
+
